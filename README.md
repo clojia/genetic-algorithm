@@ -1,1 +1,1 @@
-# genetic-network
+# genetic-algorithm
